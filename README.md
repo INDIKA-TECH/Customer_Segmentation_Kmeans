@@ -45,10 +45,10 @@ It contains information of 2240 customers, with 29 attributes each. These attrib
 **Data Preprocessing**
 
 **Removing Null**
- <br />1)We had 24 null values in the “income” feature, it is replaced with median as this feature has outlier
-2) "Z_CostContact" and "Z_Revenue" have same value in all the rows that's why 
+-1)We had 24 null values in the “income” feature, it is replaced with median as this feature has outlier
+-2) "Z_CostContact" and "Z_Revenue" have same value in all the rows that's why 
 they are not going to contribute anything in the model building. So we can drop them.
-3)columns are renamed
+-3)columns are renamed
 
 **Feature Engineering**
 Creating new features
