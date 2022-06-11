@@ -3,6 +3,7 @@ Customer Segementation using KMeans
 **Description and Motivation**
 Welcome to my retail customer segmentation project! We are going to analyze the data of a retail company, and try to understand the behavior of their customers. Hopefully, we’ll find a lot of insights to help the company on how to plan their next campaigns, who would be the target of a new product, what are the most valuable customers, etc.
 It contains information of 2240 customers, with 29 attributes each. These attributes are: 
+
 **People**
 - ID: Customer's unique identifier
 - Year_Birth: Customer's birth year
@@ -44,7 +45,7 @@ It contains information of 2240 customers, with 29 attributes each. These attrib
 **Data Preprocessing**
 
 **Removing Null**
-1)We had 24 null values in the “income” feature, it is replaced with median as this feature has outlier
+ <br />1)We had 24 null values in the “income” feature, it is replaced with median as this feature has outlier
 2) "Z_CostContact" and "Z_Revenue" have same value in all the rows that's why 
 they are not going to contribute anything in the model building. So we can drop them.
 3)columns are renamed
