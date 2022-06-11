@@ -81,7 +81,7 @@ We had closer look at our features, their distributions, and how they relate to 
 - 4)Applied K mean unsupervised ML model
 
 **Insights**
-- 1)People from cluster 2 buy items at full price, and spend a lot of money. Therefore, they are our most valuable customers. The company should make an extra effort to keep them happy.***
+- 1)People from cluster 2 buy items at full price, and spend a lot of money. Therefore, they are our most valuable customers. The company should make an extra effort to keep them happy.
 
 - 2)People in cluster 3 buy a lot of non-essential items, and are very sensitive to discounts.
 
