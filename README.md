@@ -56,9 +56,9 @@ Creating new features
 - 2)Percentage of value spent on essential items (fruits + meat + fish + sweet)
 - 3)total_spent = mnt_wines + mnt_fruits+ mnt_meat+ mnt_fish + mtn_sweet + mnt_gold
 - 4)num_purchases= num_web_purchases+ num_catalog_purchases + num_store_purchases + num_web_visits_month 
-- 5) num_children =  kid_home  + teen_home
-- 6) days_since_enrollment  
-- 7) age 
+- 5)num_children =  kid_home  + teen_home
+- 6)days_since_enrollment  
+- 7)age 
 
 **Removing outliers**
 - 1)We have removed some customers that have extreme values, and are not in pace with the others from Income and age
